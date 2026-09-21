@@ -6,50 +6,46 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Data+Cleaning+%7C+Visualization+%7C+Analysis" alt="Typing SVG" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
 <p align="center">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ibrahim-salim-791901322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="42" height="42" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/ibrahim.mohamed.130583/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="42" height="42" alt="Facebook" />
+  </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/ibrahim.mohamed925/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="42" height="42" alt="Instagram" />
+  </a>&nbsp;&nbsp;
 
   <!-- X -->
   <a href="https://x.com/IbrahimSalim925" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="42" height="42" alt="X" />
+  </a>&nbsp;&nbsp;
 
   <!-- WhatsApp -->
   <a href="https://wa.me/201012818990" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="42" height="42" alt="WhatsApp" />
+  </a>&nbsp;&nbsp;
 
   <!-- Telegram -->
   <a href="https://t.me/Ibra7im_Salim" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="42" height="42" alt="Telegram" />
+  </a>&nbsp;&nbsp;
 
   <!-- Email -->
   <a href="mailto:ms0222720@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Email" />
+  </a>&nbsp;&nbsp;
 
   <!-- Phone -->
   <a href="tel:+201012818990">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/phone.png" width="42" height="42" alt="Phone" />
   </a>
 
 </p>
@@ -130,11 +126,17 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="42" height="42" alt="Visual Studio Code" />
+</a>&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/git.png" width="42" height="42" alt="Git" />
+</a>&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="42" height="42" alt="GitHub" />
+</a>
 
 </p>
 
