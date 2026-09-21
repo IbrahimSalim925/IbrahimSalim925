@@ -93,7 +93,8 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 
 <img
   src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png"
-  width="700" height="550"
+  width="700"
+  height="550"
   alt="Data Analyst"
 />
 
@@ -371,7 +372,7 @@ My goal is to become a strong <b>Data Analyst</b> who can transform raw data int
 <h3>📊 GitHub Stats</h3>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=IbrahimSalim925&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="./profile/stats.svg"
   width="100%"
   alt="GitHub Stats"
 />
@@ -383,7 +384,7 @@ My goal is to become a strong <b>Data Analyst</b> who can transform raw data int
 <h3>💻 Most Used Languages</h3>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalim925&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="./profile/top-langs.svg"
   width="100%"
   alt="Most Used Languages"
 />
