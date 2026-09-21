@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Data+Cleaning+%7C+Visualization+%7C+Analysis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Data+Cleaning+%7C+Visualization+%7C+Analysis" alt="Typing SVG" />
 </p>
 
 <!-- ========================= -->
@@ -21,35 +21,35 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ibrahim-salim-791901322/">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.facebook.com/ibrahim.mohamed.130583/">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" alt="Facebook"/>
 </a>
 
 <a href="https://www.instagram.com/ibrahim.mohamed925/">
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram"/>
 </a>
 
 <a href="https://x.com/IbrahimSalim925">
-<img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" alt="X"/>
 </a>
 
 <a href="https://wa.me/201012818990">
-<img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" alt="WhatsApp"/>
 </a>
 
 <a href="https://t.me/Ibra7im_Salim">
-<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="48" alt="Telegram"/>
 </a>
 
 <a href="mailto:ms0222720@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email"/>
 </a>
 
 <a href="tel:+201012818990">
-<img src="https://img.icons8.com/color/48/phone.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/phone.png" width="48" alt="Phone"/>
 </a>
 
 </p>
@@ -91,7 +91,11 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 
 <td width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png" width="800" height="700" alt="Data Analyst"/>
+<img
+  src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png"
+  width="500"
+  alt="Data Analyst"
+/>
 
 </td>
 
@@ -164,15 +168,15 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 <h3>💻 Development Tools</h3>
 
 <a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55" alt="VS Code"/>
 </a>
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55" alt="Git"/>
 </a>
 
 <a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub"/>
 </a>
 
 </td>
@@ -345,18 +349,16 @@ Creating interactive dashboards that transform raw datasets into clear visual re
 
 <h2>🎯 My Goal</h2>
 
-<p align="center">
-
 <h3 align="center">📊 Turning Data into Insights</h3>
 
+<p align="center">
 My goal is to become a strong <b>Data Analyst</b> who can transform raw data into meaningful insights and support better business decisions through data.
-
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--      GITHUB STATS         -->
+<!--      GITHUB STATISTICS    -->
 <!-- ========================= -->
 
 <h2>📊 GitHub Statistics</h2>
@@ -366,19 +368,37 @@ My goal is to become a strong <b>Data Analyst</b> who can transform raw data int
 
 <td width="33%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimSalim925&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="100%"/>
+<h3>📊 GitHub Stats</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=IbrahimSalim925&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalim925&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<h3>💻 Most Used Languages</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalim925&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  width="100%"
+  alt="Most Used Languages"
+/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimSalim925&theme=tokyonight&hide_border=true" width="100%"/>
+<h3>🔥 GitHub Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com/?user=IbrahimSalim925&theme=tokyonight&hide_border=true"
+  width="100%"
+  alt="GitHub Streak"
+/>
 
 </td>
 
@@ -395,7 +415,11 @@ My goal is to become a strong <b>Data Analyst</b> who can transform raw data int
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/output/github-contribution-grid-snake.svg" width="90%"/>
+<img
+  src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="Contribution Snake"
+/>
 
 </p>
 
@@ -405,14 +429,12 @@ My goal is to become a strong <b>Data Analyst</b> who can transform raw data int
 <!--           FOOTER          -->
 <!-- ========================= -->
 
-<p align="center">
-
 <hr>
 
-<h2 align="center">⭐ Thanks for visiting my profile!</h2>
+<h2 align="center">
+  ⭐ Thanks for visiting my profile!
+</h2>
 
 <p align="center">
-<b>Let's turn data into insights. 📊🚀</b>
-</p>
-
+  <b>Let's turn data into insights. 📊🚀</b>
 </p>
