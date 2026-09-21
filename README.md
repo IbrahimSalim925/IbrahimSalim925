@@ -93,7 +93,7 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 
 <img
   src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png"
-  width="500"
+  width="700" height="550"
   alt="Data Analyst"
 />
 
