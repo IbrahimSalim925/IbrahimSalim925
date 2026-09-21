@@ -7,21 +7,26 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+
+    timeout-minutes: 10
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IbrahimSalim925
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: .
+          target_branch: output
+          build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: .
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
