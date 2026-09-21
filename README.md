@@ -91,7 +91,7 @@ I'm continuously developing my skills in **Data Analysis, SQL, Excel, Power BI, 
 
 <td width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png" width="500" alt="Data Analyst"/>
+<img src="https://raw.githubusercontent.com/IbrahimSalim925/IbrahimSalim925/main/image.png" width="800" height="700" alt="Data Analyst"/>
 
 </td>
 
