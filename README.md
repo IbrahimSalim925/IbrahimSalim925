@@ -56,18 +56,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/IbrahimSalim925">
-    <img src="https://img.shields.io/github/followers/IbrahimSalim925?label=Followers&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/IbrahimSalim925">
-    <img src="https://img.shields.io/github/stars/IbrahimSalim925?label=Stars&style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Ibrahim Salim**, a **Data Analyst** passionate about transforming raw data into meaningful insights.
